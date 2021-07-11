@@ -1,10 +1,10 @@
 # LibSummary
 
-1. LIST
+# LIST
   - Great for list performance: https://github.com/Flipkart/recyclerlistview
 
-2. IMAGE
+# IMAGE
   - Great for image: https://github.com/DylanVann/react-native-fast-image
 
-3. RE-RENDER
+# RE-RENDER
 - Great for re-render test : https://github.com/welldone-software/why-did-you-render
