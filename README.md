@@ -8,3 +8,6 @@
 
 # RE-RENDER
 - Great for re-render test : https://github.com/welldone-software/why-did-you-render
+
+# Good-Tutorial
+- Performace : https://github.com/wix/react-native-crash-course/blob/master/docs/App.performance.md
